@@ -1,4 +1,4 @@
-iimport requests, re, os
+import requests, re, os
 from datetime import datetime
 
 SOURCE_FILE = "sources.txt"
