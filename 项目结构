@@ -1,0 +1,7 @@
+iptv-updater/
+├── .github/
+│   └── workflows/
+│       └── auto_update.yml      # GitHub Actions 定时任务
+├── sources.txt                  # 网站列表（手动维护）
+├── iptv_updater.py              # 主脚本
+├── README.md
