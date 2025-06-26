@@ -1,1 +1,3 @@
 https://raw.githubusercontent.com/ngo5/IPTV/refs/heads/main/m3u/ipv4.m3u
+https://raw.githubusercontent.com/skddyj/iptv/refs/heads/main/IPTV.m3u
+https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live_lite.txt
