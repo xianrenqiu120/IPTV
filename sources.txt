@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/xxx/xxx/master/list1.txt
+https://example.com/list2.m3u
